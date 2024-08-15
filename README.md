@@ -12,12 +12,15 @@ gateway-service: <br />
 + 业务功能及菜单的角色鉴权<br />
 + IP终端过滤<br />
 + 忽略url<br />
+
 user-auth-service:<br />
 + 用户认证<br />
 + JWT<br />
+
 user-management-service:<br />
 + 基于RBAC的用户角色权限管理<br />
 + 缓存权限到redis<br />
+
 nacos: 2.2.3<br />
 mysql: 8<br />
 redis: 6<br />
