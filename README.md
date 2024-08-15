@@ -26,3 +26,4 @@ mysql: 8<br />
 redis: 6<br />
 docker: 20.10.17<br />
 skywalking: 9.2.0<br />
+skywalking-agent: 8.13<br />
